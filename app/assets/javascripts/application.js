@@ -12,5 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
-//= require_tree .
+//= require  extjs4/ext-all-dev
+//= require  extjs4/ext-theme-neptune
+//= require app
+//  require_tree .
